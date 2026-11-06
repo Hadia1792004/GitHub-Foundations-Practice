@@ -24,4 +24,4 @@ for learning Git and GitHub.
 Understand version control and collaboration.
 
 ## Author
-Your Name
+Hadia Hassan
